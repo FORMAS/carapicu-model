@@ -53,3 +53,21 @@ As perguntas e respostas devem refletir conceitos centrais, fundamentos, técnic
   ]
 }
 ```
+# Citation / Reference Context
+
+## Citation
+
+If you use this repository in your research, please cite:
+
+```bibtex
+@inproceedings{gomes-claro-att-multidomain-bracis2026,
+  title        = {Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD},
+  author       = {Ricardo Gomes de Oliveira and Daniela Barreiro Claro and Rerisson Cavalcante de Araújo},
+  year         = 2026,
+  month        = {October},
+  booktitle    = {Proceedings of the 36th Brazilian Conference on Intelligent Systems},
+  publisher    = {Springer},
+  address      = {New York, NY},
+  pages        = {},
+  organization = {SBC}
+}
