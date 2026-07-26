@@ -60,14 +60,13 @@ As perguntas e respostas devem refletir conceitos centrais, fundamentos, técnic
 If you use this repository in your research, please cite:
 
 ```bibtex
-@inproceedings{gomes-claro-att-multidomain-bracis2026,
-  title        = {Grammatical Representations in Transformer Attention: A Multidomain Study of Portuguese via UD},
-  author       = {Ricardo Gomes de Oliveira and Daniela Barreiro Claro and Rerisson Cavalcante de Araújo},
+@inproceedings{bulcao-dantas-stil-2026,
+  title        = {Textbook-Enriched Training for Language Models: Boosting Answer Quality in Specialized Contexts},
+  author       = {Lucas B. Bulcão Mota and Larrissa Dantas and Daniela Barreiro Claro and Aline Paes and Claudia Freitas and Marlo Souza and Helena Caseli and Livy Real},
   year         = 2026,
   month        = {October},
-  booktitle    = {Proceedings of the 36th Brazilian Conference on Intelligent Systems},
-  publisher    = {Springer},
-  address      = {New York, NY},
+  booktitle    = {Proceedings of the STIL 2026},
+  publisher    = {ACL--SOL},
   pages        = {},
   organization = {SBC}
 }
