@@ -2,9 +2,8 @@
 The Carapicu model is a fine-tuned version of Qwen/Qwen3-0.6B on the ./dataset_livro_cpt.jsonl and the ./dataset_bpln.jsonl datasets.
 [FORMAS/Carapicu-Qwen3-0.6B-CPT-SFT](https://huggingface.co/FORMAS/Carapicu-Qwen3-0.6B-CPT-SFT)
 
-## Curiosity: 
-O [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) (Eucinostomus gula) é uma espécie de peixe que habita o Oceano Atlântico desde a América do Norte até a Bahia. Chega a medir até 25 centímetros de comprimento. 
-Em janeiro de cada ano, normalmente ocorre o Torneio de Pesca do [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) na Ilha de Itaparica na Bahia.   
+### Curiosity:
+O [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) (Eucinostomus gula) é uma espécie de peixe que habita o Oceano Atlântico desde a América do Norte até a Bahia. Chega a medir até 25 centímetros de comprimento. Em janeiro de cada ano, normalmente ocorre o Torneio de Pesca do [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) na Ilha de Itaparica na Bahia.   
 
 # carapicu-prompt
 ## Prompt Used to Generate the Carapicu-textbook Dataset
