@@ -66,12 +66,16 @@ If you use this repository in your research, please cite:
 
 ```bibtex
 @inproceedings{bulcao-dantas-stil-2026,
-  title        = {Textbook-Enriched Training for Language Models: Boosting Answer Quality in Specialized Contexts},
-  author       = {Lucas B. Bulcão Mota and Larrissa Dantas and Daniela Barreiro Claro and Aline Paes and Claudia Freitas and Marlo Souza and Helena Caseli and Livy Real},
-  year         = 2026,
-  month        = {October},
-  booktitle    = {Proceedings of the STIL 2026},
-  publisher    = {ACL--SOL},
-  pages        = {},
-  organization = {SBC}
+ author = {Lucas Mota and Larrissa Dantas and Daniela Claro and Aline Paes and Claudia Freitas and Marlo Souza and Helena Caseli and Livy Real},
+ title = { Textbook-Enriched Training for Language Models: Boosting Answer Quality in Specialized Contexts},
+ booktitle = {Anais do XVII Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana},
+ location = {Cuiabá/MT},
+ year = {2026},
+ issn = {0000-0000},
+ pages = {270--284},
+ publisher = {SBC},
+ address = {Porto Alegre, RS, Brasil},
+ doi = {10.5753/stil.2026.26566},
+ url = {https://sol.sbc.org.br/index.php/stil/article/view/44619}
 }
+
