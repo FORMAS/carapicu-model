@@ -2,6 +2,8 @@
 The Carapicu model is a fine-tuned version of Qwen/Qwen3-0.6B on the ./dataset_livro_cpt.jsonl and the ./dataset_bpln.jsonl datasets.
 [FORMAS/Carapicu-Qwen3-0.6B-CPT-SFT](https://huggingface.co/FORMAS/Carapicu-Qwen3-0.6B-CPT-SFT)
 
+We investigated how different adaptation strategies influence small language models in educational QA tasks in Portuguese. Our findings indicate that the adapted models achieved stronger semantic alignment and higher answer relevance than the evaluated non-specialized base models. Within the investigated setting, Carapicu-Qwen3-0.6B-SFT and Carapicu-Qwen3-0.6B-CPT-SFT outperformed larger models across different evaluation metrics, suggesting that supervised adaptation with structured instructional knowledge can be an effective strategy for domain-specific educational QA.
+
 #### curiosity:
 O [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) (Eucinostomus gula) é uma espécie de peixe que habita o Oceano Atlântico desde a América do Norte até a Bahia. Chega a medir até 25 centímetros de comprimento. Em janeiro de cada ano, normalmente ocorre o Torneio de Pesca do [Carapicu](https://pt.wikipedia.org/wiki/Carapicu) na Ilha de Itaparica na Bahia.   
 
